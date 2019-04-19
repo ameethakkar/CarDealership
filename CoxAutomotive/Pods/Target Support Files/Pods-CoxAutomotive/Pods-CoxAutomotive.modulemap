@@ -1,0 +1,6 @@
+module Pods_CoxAutomotive {
+  umbrella header "Pods-CoxAutomotive-umbrella.h"
+
+  export *
+  module * { export * }
+}
